@@ -52,3 +52,78 @@ header {
     height: 600px;
     object-fit: cover;
 }
+
+/*Section*/
+.section{
+
+    background-color: red;
+    height: 700px;
+    width: 100%;
+    margin-top: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    padding: 25px;
+
+}
+
+.cardapio {
+
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+    
+    
+    
+} 
+
+.Pizzas_Bebidas {
+
+    background-color: green;
+    width: 600px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    border: 2px solid black;
+    padding-top: 10px;
+    gap: 10px;
+    font-size: xx-large;
+    
+
+}
+
+.divcardapio{
+
+    width: 100%;
+    height: 600px;
+    display:flex;
+    justify-content: space-around;
+    gap: 20px;
+    
+}
+
+.PCardapio{
+
+    font-size: small;
+    
+
+}
+
+.StrongCardapio{
+
+    font-size: large;
+
+}
+
+.PizzasItens{
+
+    display: flex;
+    flex-direction: column;
+    margin-right: 200px;
+    
+
+}
+
