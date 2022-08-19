@@ -51,6 +51,7 @@ header {
     width: 100%;
     height: 600px;
     object-fit: cover;
+    border-bottom: 10px solid rgba(000, 000, 000, 0.8);
 }
 
 /*Section*/
@@ -59,7 +60,6 @@ header {
     background-color:rgba(255,0,0, 0.8 ) ;
     height: 700px;
     width: 100%;
-    margin-top: 7px;
     display: flex;
     flex-direction: column;
     align-items: center;
